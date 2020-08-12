@@ -1,0 +1,18 @@
+{
+  "name": "homebridge-motionsensor-file",
+  "version": "1.0.0",
+  "description": "If the file exists, the motion sensor is turned on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.22.0",
+    "homebridge": ">=1.1.1"
+  }
+}
